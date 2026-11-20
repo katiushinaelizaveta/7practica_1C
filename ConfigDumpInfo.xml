@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonModule.практика7" id="53810a71-fc1e-4b45-8320-c877d3922b84" configVersion="e9b6b0aec27f39f1b72dd834ccf12a764f8799bf"/>
+		<Metadata name="CommonModule.практика7.Module" id="53810a71-fc1e-4b45-8320-c877d3922b84.0" configVersion="0d680598828f5987dec83a15a96306993648c265"/>
+		<Metadata name="Configuration.ЖЕРТВА2" id="98f7745a-c228-4e88-b824-0ef9313d1dbd" configVersion="6311966828ee2c6d9d7cede44e3640a6759040ed"/>
+		<Metadata name="Document.РасходнаяНакладная" id="35fa76ef-f72e-4cb1-ad3c-ff3d60b5cebe" configVersion="0e0426a0eb3140c7bed9f9a6f2e00b3135b726ab"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="35fa76ef-f72e-4cb1-ad3c-ff3d60b5cebe.0" configVersion="b67276cb38fdfa3806744754b42b84a5761b78fb"/>
+		<Metadata name="EventSubscription._КонтрольСкладаПриЗаписи" id="70f4d48d-872c-4362-b0a2-1459b176df66" configVersion="6507a22b00befebaaa415751ba11fb8381d524e2"/>
+		<Metadata name="Language.Русский" id="986be91f-fe2c-4e39-a492-a85edff24fc2" configVersion="d1edede6e9bd1d0a16b205ccf397d9dea350f07a"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="e34384af-2414-473b-8925-b91b1b764b75" configVersion="34dc0fe22fffc3a86b810250e57b7677c9ac2c0d"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
